@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/config/connection.ts","./src/models/associations.ts","./src/models/index.ts","./src/models/role_type.ts","./src/models/user.ts","./src/routes/authroutes.ts","./src/routes/index.ts","./src/routes/api/index.ts","./src/routes/api/user-routes.ts","./src/seeds/index.ts","./src/seeds/role_type-seeds.ts","./src/seeds/user-seeds.ts"],"version":"5.7.2"}
